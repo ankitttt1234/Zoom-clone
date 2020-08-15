@@ -1,0 +1,28 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "peer": "^0.5.3",
+    "socket.io": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitttt1234/Chat-APP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ankitttt1234/Chat-APP/issues"
+  },
+  "homepage": "https://github.com/ankitttt1234/Chat-APP#readme",
+  "description": ""
+}
